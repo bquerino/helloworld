@@ -19,7 +19,8 @@ class MessageResource {
 		Message("1", "Hello world!"),
 		Message("2", "Bonjour le monde!"),
 		Message("3", "Olá mundo!"),
-		Message("4", "Hallo Welt") 
+		Message("4", "Hallo Welt"),
+		Message("5", "Ciao mondo")
 	)
 }
 
